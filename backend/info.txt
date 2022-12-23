@@ -1,1 +1,6 @@
 backend contains all our routes. modals, controllers etc.
+
+All the dependencies used :
+1. nodemon - keeps the server running after every change
+2. mongoose - 
+3. dotenv - 
